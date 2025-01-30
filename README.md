@@ -1,15 +1,15 @@
-DeepSeek DSPy Integration
+# DeepSeek DSPy Integration
 
 This repository demonstrates how to integrate DeepSeek models with DSPy to generate structured articles using AI-driven reasoning and content drafting.
 
-* Features
+# Features
 
-Uses DeepSeek LLMs (deepseek-reasoner & deepseek-chat) via liteLLM
+1. Uses DeepSeek LLMs (deepseek-reasoner & deepseek-chat) via liteLLM
 
-Generates article outlines, sections, and subheadings
+2. Generates article outlines, sections, and subheadings
 
-Formats output in Markdown for readability
+3. Formats output in Markdown for readability
 
-Includes Chain-of-Thought reasoning for better text coherence
+4. Includes Chain-of-Thought reasoning for better text coherence
 
-Debugging support with LLM call history inspection
+5. Debugging support with LLM call history inspection
